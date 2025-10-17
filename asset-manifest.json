@@ -1,31 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.97308649.css",
-    "main.js": "/static/js/main.b41e8982.js",
-    "static/js/821.c9d73f2c.chunk.js": "/static/js/821.c9d73f2c.chunk.js",
-    "static/js/606.e3a716e2.chunk.js": "/static/js/606.e3a716e2.chunk.js",
-    "static/js/968.0d1c3cec.chunk.js": "/static/js/968.0d1c3cec.chunk.js",
-    "static/css/334.9a1a1293.chunk.css": "/static/css/334.9a1a1293.chunk.css",
-    "static/js/334.25a6a758.chunk.js": "/static/js/334.25a6a758.chunk.js",
-    "static/css/196.9a1a1293.chunk.css": "/static/css/196.9a1a1293.chunk.css",
-    "static/js/196.5ce0bb2a.chunk.js": "/static/js/196.5ce0bb2a.chunk.js",
-    "static/js/381.207a370c.chunk.js": "/static/js/381.207a370c.chunk.js",
+    "main.css": "/static/css/main.32781d87.css",
+    "main.js": "/static/js/main.6d3b8c10.js",
     "static/js/453.80eec93d.chunk.js": "/static/js/453.80eec93d.chunk.js",
     "index.html": "/index.html",
-    "main.97308649.css.map": "/static/css/main.97308649.css.map",
-    "main.b41e8982.js.map": "/static/js/main.b41e8982.js.map",
-    "821.c9d73f2c.chunk.js.map": "/static/js/821.c9d73f2c.chunk.js.map",
-    "606.e3a716e2.chunk.js.map": "/static/js/606.e3a716e2.chunk.js.map",
-    "968.0d1c3cec.chunk.js.map": "/static/js/968.0d1c3cec.chunk.js.map",
-    "334.9a1a1293.chunk.css.map": "/static/css/334.9a1a1293.chunk.css.map",
-    "334.25a6a758.chunk.js.map": "/static/js/334.25a6a758.chunk.js.map",
-    "196.9a1a1293.chunk.css.map": "/static/css/196.9a1a1293.chunk.css.map",
-    "196.5ce0bb2a.chunk.js.map": "/static/js/196.5ce0bb2a.chunk.js.map",
-    "381.207a370c.chunk.js.map": "/static/js/381.207a370c.chunk.js.map",
+    "main.32781d87.css.map": "/static/css/main.32781d87.css.map",
+    "main.6d3b8c10.js.map": "/static/js/main.6d3b8c10.js.map",
     "453.80eec93d.chunk.js.map": "/static/js/453.80eec93d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.97308649.css",
-    "static/js/main.b41e8982.js"
+    "static/css/main.32781d87.css",
+    "static/js/main.6d3b8c10.js"
   ]
 }
