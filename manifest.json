@@ -1,12 +1,17 @@
 {
-  "name": "LajmAI",
-  "short_name": "LajmAI",
+  "name": "lajm.ai",
+  "short_name": "lajm.ai",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#d40000",
+  "theme_color": "#E11D2A",
   "orientation": "portrait-primary",
   "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
     {
       "src": "/icons/android-chrome-192x192.png",
       "sizes": "192x192",
